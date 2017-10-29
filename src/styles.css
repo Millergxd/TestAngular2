@@ -1,1 +1,24 @@
 /* You can add global styles to this file, and also import other style files */
+.title{
+    font-size: 50px;
+    text-align: center;
+}
+.formulario{
+    text-align: center;
+   height: 80px;
+   /*border: 1px solid black;*/
+}
+.formulario1{
+    width: 200px;
+    display: block;
+    margin: 0px auto;
+    border: 1px solid black;
+}
+.boton{
+    text-align: center;
+}
+.boton1{
+    display: block;
+    margin: 0px auto;
+    background: blue;
+}
